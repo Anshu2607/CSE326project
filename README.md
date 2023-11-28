@@ -1,1 +1,1 @@
-# CSE326project
+# cse326-project
